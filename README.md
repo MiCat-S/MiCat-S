@@ -34,9 +34,6 @@ _Build it reproducibly. Verify it for real. Keep a way back._
 
 ## ✨ How I like to build
 
-- 尽量使用上游真实规则，不凭空发明配置
-- 基于上游项目时保留来源、版权和许可证说明
-- 修改保持聚焦，不破坏用户已有数据
 - 发布前做真实运行、更新、回滚和跨架构检查
 - 让文档不仅能解释，也能让第一次使用的人照着完成
 
