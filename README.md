@@ -12,28 +12,6 @@
 - ⚙️ GitHub Actions、Shell、Python、Go、C++ 与 Vue
 - 🔍 更关注真实运行结果，而不只是“看起来能用”
 
-## 🚀 Featured projects
-
-### [Sub-Store Node.js + PM2 Manager](https://github.com/Autlin/sub-store-node-pm2-manager)
-
-面向 Debian、Ubuntu 和 Raspberry Pi ARM64 的 Sub-Store 一键部署、前后端更新、自动回滚和多实例管理脚本。
-
-### [GKI KernelSU Workflow](https://github.com/Autlin/gki_ksu_workflow)
-
-为 GKI 6.1 / 6.6 / 6.12 构建多种 KernelSU 变体，并集成 SUSFS、Droidspaces、Re:Kernel 和 eBPF Scene Hider 等功能。
-
-### [Rule](https://github.com/Autlin/Rule)
-
-面向多个代理客户端的规则集合，通过自动化流程每日转换和更新。
-
-### [Sub-Web Modify](https://github.com/Autlin/sub-web-modify)
-
-定制化的订阅转换前端。
-
-### [Subconverter](https://github.com/Autlin/subconverter)
-
-订阅转换工具，持续补充现代协议和不同目标格式的兼容支持。
-
 ## 🧰 Toolbox
 
 ```text
@@ -45,10 +23,11 @@ Android GKI · KernelSU · Subscription Tooling
 ## ✨ How I like to build
 
 - 尽量使用上游真实规则，不凭空发明配置
+- 基于上游项目时保留来源、版权和许可证说明
 - 修改保持聚焦，不破坏用户已有数据
 - 发布前做真实运行、更新、回滚和跨架构检查
 - 让文档不仅能解释，也能让第一次使用的人照着完成
 
 ---
 
-Most of my repositories come from things I actually run, maintain, or wanted to make easier the next time around.
+This profile is mostly about tools I maintain, adapt, test, and use in real environments.
