@@ -1,24 +1,36 @@
+<div align="center">
+
 # Hi, I'm Cat 👋
 
-我喜欢把复杂的部署、构建和维护流程，整理成真正能在机器上运行、可以验证、出了问题也能回滚的自动化工具。
+**Automation · Android Kernels · Subscription Tooling · Self-hosted Linux**
 
-> Build it reproducibly. Verify it for real. Keep a way back.
+我喜欢把复杂的部署、构建和维护流程，整理成真正能运行、可以验证、出了问题也能回滚的自动化工具。
+
+<br />
+
+![Shell](https://img.shields.io/badge/Shell-121011?style=flat-square&logo=gnu-bash&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Vue](https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+
+<br />
+
+_Build it reproducibly. Verify it for real. Keep a way back._
+
+</div>
 
 ## 🧭 What I work on
 
-- 🐧 Linux 服务部署、更新和运维自动化
-- 📱 Android GKI / KernelSU 内核构建工作流
-- 🌐 代理规则、订阅转换和 Sub-Store 生态工具
-- ⚙️ GitHub Actions、Shell、Python、Go、C++ 与 Vue
-- 🔍 更关注真实运行结果，而不只是“看起来能用”
-
-## 🧰 Toolbox
-
-```text
-Shell · Python · Go · C++ · Vue
-GitHub Actions · Linux · PM2 · systemd
-Android GKI · KernelSU · Subscription Tooling
-```
+| Focus | What it means |
+| --- | --- |
+| 🐧 Linux automation | 服务部署、更新、运维和故障恢复 |
+| 📱 Android kernels | GKI、KernelSU 和可复现构建工作流 |
+| 🌐 Subscription tooling | 代理规则、订阅转换和 Sub-Store 生态 |
+| ⚙️ Delivery | GitHub Actions、PM2、systemd 和发布验证 |
+| 🔍 Real-world checks | 更关注真实运行结果，而不只是“看起来能用” |
 
 ## ✨ How I like to build
 
@@ -28,6 +40,10 @@ Android GKI · KernelSU · Subscription Tooling
 - 发布前做真实运行、更新、回滚和跨架构检查
 - 让文档不仅能解释，也能让第一次使用的人照着完成
 
+<div align="center">
+
 ---
 
-This profile is mostly about tools I maintain, adapt, test, and use in real environments.
+_This profile is mostly about tools I maintain, adapt, test, and use in real environments._
+
+</div>
