@@ -1,5 +1,9 @@
 <div align="center">
 
+<img src="./assets/profile-banner.png" alt="Abstract automation and systems pipeline" width="100%" />
+
+<br />
+
 # Hi, I'm Cat 👋
 
 **Automation · Android Kernels · Subscription Tooling · Self-hosted Linux**
@@ -22,7 +26,7 @@ _Build it reproducibly. Verify it for real. Keep a way back._
 
 </div>
 
-## 🧭 What I work on
+## 🧭 What I Work On
 
 | Focus | What it means |
 | --- | --- |
@@ -32,7 +36,7 @@ _Build it reproducibly. Verify it for real. Keep a way back._
 | ⚙️ Delivery | GitHub Actions、PM2、systemd 和发布验证 |
 | 🔍 Real-world checks | 更关注真实运行结果，而不只是“看起来能用” |
 
-## ✨ How I like to build
+## ✨ How I Build
 
 - 发布前做真实运行、更新、回滚和跨架构检查
 - 让文档不仅能解释，也能让第一次使用的人照着完成
