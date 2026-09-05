@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="112" viewBox="0 0 560 112" role="img" aria-labelledby="title desc">
+  <title id="title">Hi, I'm Cat. Stay curious. Keep tinkering.</title>
+  <desc id="desc">A waving hand and a looping typewriter greeting on a transparent background.</desc>
+  <style>
+    .heading { fill: #24292f; }
+    .message { fill: #237d65; }
+    .cursor { fill: #237d65; }
+    .wave { transform-origin: 372px 43px; animation: wave 4s ease-in-out infinite; }
+    .reveal { width: 302.4px; animation: type 7s steps(28, end) infinite; }
+    .caret { transform: translateX(302.4px); animation: travel 7s steps(28, end) infinite; }
+    .cursor { animation: blink 1.2s step-end infinite; }
+    @keyframes wave {
+      0%, 48%, 100% { transform: rotate(0deg); }
+      8%, 24% { transform: rotate(16deg); }
+      16%, 32% { transform: rotate(-10deg); }
+      40% { transform: rotate(8deg); }
+    }
+    @keyframes type {
+      0%, 8%, 100% { width: 0px; }
+      48%, 83% { width: 302.4px; }
+    }
+    @keyframes travel {
+      0%, 8%, 100% { transform: translateX(0px); }
+      48%, 83% { transform: translateX(302.4px); }
+    }
+    @keyframes blink { 0%, 100% { opacity: 1; } 50% { opacity: 0; } }
+    @media (prefers-color-scheme: dark) {
+      .heading { fill: #f0f6fc; }
+      .message, .cursor { fill: #75dfb9; }
+    }
+    @media (prefers-reduced-motion: reduce) {
+      .wave, .reveal, .caret, .cursor { animation: none; }
+      .cursor { opacity: 0; }
+    }
+  </style>
+  <text class="heading" x="260" y="44" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="32" font-weight="600">Hi, I'm Cat</text>
+  <g class="wave">
+    <text x="354" y="44" font-family="'Apple Color Emoji', 'Segoe UI Emoji', sans-serif" font-size="30">👋</text>
+  </g>
+  <g transform="translate(128 66)">
+    <defs>
+      <clipPath id="typed"><rect class="reveal" x="0" y="0" width="302.4" height="32"/></clipPath>
+    </defs>
+    <text class="message" clip-path="url(#typed)" x="0" y="24" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="18" textLength="302.4" lengthAdjust="spacingAndGlyphs">Stay curious. Keep tinkering.</text>
+    <g class="caret"><rect class="cursor" x="3" y="7" width="2" height="20" rx="1"/></g>
+  </g>
+</svg>

@@ -1,18 +1,33 @@
-## Hi, I'm Cat.
+<p align="center">
+  <img src="./assets/welcome-animated.svg" width="560" alt="Hi, I'm Cat 👋 — Stay curious. Keep tinkering." />
+</p>
 
-I build and adapt tools for the things I use every day, from self-hosted Linux services to Android kernel builds.
+<p align="center">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&amp;logo=linux&amp;logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Shell-30363D?style=flat-square&amp;logo=gnubash&amp;logoColor=white" alt="Shell" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&amp;logo=python&amp;logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Vue-38856B?style=flat-square&amp;logo=vuedotjs&amp;logoColor=white" alt="Vue" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&amp;logo=githubactions&amp;logoColor=white" alt="GitHub Actions" />
+</p>
 
-I enjoy turning repetitive work into automation, testing it in real environments, and writing down what makes it work.
+### 🧑‍💻 A bit about me
 
-### What I work on
+I like figuring out how things work, tinkering with my setup, and making everyday tools a little easier to use.
 
-- **Linux automation**: deployment, updates, and service recovery.
-- **Android kernels**: GKI, KernelSU, and reproducible build workflows.
-- **Subscription tooling**: proxy rules, subscription conversion, and the Sub-Store ecosystem.
-- **Build & delivery**: GitHub Actions, PM2, and systemd.
+What starts as “can I make this easier?” often turns into a script, a build workflow, or a page of notes. 📝
 
-### How I work
+### 🛠️ Things I enjoy
 
-Start with a real problem. Keep the workflow reproducible. Check updates and recovery, and leave clear documentation for the next person.
+- 🐧 **Linux & self-hosting** — setting things up and keeping them running.
+- 📱 **Android kernels** — exploring builds, customization, and how the pieces fit together.
+- ⚙️ **Automation** — letting scripts take care of the repetitive stuff.
+- 🌐 **Networking tools** — tinkering with proxy rules and subscription workflows.
+- 🔍 **Learning by doing** — trying things, checking the results, and sharing what I learn.
 
-<sub>Built for everyday use. Refined through experience.</sub>
+### ✨ What matters to me
+
+Tools that are useful beyond the first run. Instructions that someone else can follow. Small improvements that make everyday use smoother.
+
+---
+
+<p align="center"><sub>🌱 Stay curious. Make it useful. Keep improving.</sub></p>
