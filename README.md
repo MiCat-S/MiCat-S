@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/banner.svg" width="100%" alt="Hi, I'm Cat." />
+<img src="./assets/banner-light.svg" width="100%" alt="Hi, I'm Cat." />
 
 **自动化工具 · Android 内核 · 订阅工具 · Linux 自托管**
 
