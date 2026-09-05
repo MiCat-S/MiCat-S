@@ -1,15 +1,10 @@
 <div align="center">
 
-<img src="./assets/banner.svg" width="100%" alt="Hi, I'm Cat. Build. Verify. Refine." />
-
-<br />
-<br />
+<img src="./assets/banner.svg" width="100%" alt="Hi, I'm Cat." />
 
 **自动化工具 · Android 内核 · 订阅工具 · Linux 自托管**
 
 把复杂的部署、构建和维护流程，变成可复现、可验证、可回滚的日常工具。
-
-<br />
 
 [![GitHub](https://img.shields.io/badge/GitHub-MiCat--S-24292F?style=flat-square&logo=github&logoColor=white)](https://github.com/MiCat-S)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
@@ -19,8 +14,6 @@
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
 </div>
-
-<br />
 
 ## 关于我
 

@@ -1,15 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" fill="none" role="img" aria-labelledby="title desc">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="160" viewBox="0 0 1200 160" fill="none" role="img" aria-labelledby="title desc">
   <title id="title">Hi, I'm Cat.</title>
-  <desc id="desc">A charcoal banner with mint and coral accents. Build. Verify. Refine.</desc>
-  <rect width="1200" height="360" rx="8" fill="#181B1C"/>
-  <path d="M0 4H1200" stroke="#75E2BE" stroke-width="8"/>
-  <path d="M70 62H1130" stroke="#373D3E"/>
-  <text x="70" y="44" fill="#B8C3C1" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="18">MiCat-S / personal workspace</text>
-  <text x="70" y="170" fill="#F4F7F6" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="76" font-weight="700">Hi, I'm Cat.</text>
-  <text x="74" y="226" fill="#75E2BE" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="29" font-weight="500">Build. Verify. Refine.</text>
-  <text x="74" y="307" fill="#B8C3C1" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="19">AUTOMATION / KERNELS / LINUX</text>
-  <path d="M870 129L925 180L870 231" stroke="#75E2BE" stroke-width="14" stroke-linecap="square" stroke-linejoin="miter"/>
-  <path d="M960 233H1042" stroke="#FF9A8B" stroke-width="14"/>
-  <path d="M815 288H1090" stroke="#373D3E"/>
-  <rect x="1078" y="300" width="12" height="12" fill="#FF9A8B"/>
+  <desc id="desc">A compact introduction on a light background with a mint accent.</desc>
+  <rect width="1200" height="160" rx="6" fill="#F6F8FA"/>
+  <text x="600" y="96" text-anchor="middle" fill="#24292F" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="48" font-weight="600">Hi, I'm Cat.</text>
+  <path d="M577 121H623" stroke="#62C9A8" stroke-width="4" stroke-linecap="round"/>
 </svg>
